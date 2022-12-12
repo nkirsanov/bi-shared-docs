@@ -78,7 +78,7 @@ Microsoft.AnalysisServices.Deployment [ASdatabasefile]
   
  `<drive>:\My Documents\Visual Studio 2010\Projects\AdventureWorksProject\Project1\bin`  
   
- `/s: C:\ My Documents\Visual Studio 2010\Projects\AdventureWorksProject\Project1\bin\deployment.log`  
+ `/s:C:\ My Documents\Visual Studio 2010\Projects\AdventureWorksProject\Project1\bin\deployment.log`  
   
 ## See also
 
